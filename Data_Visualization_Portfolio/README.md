@@ -1,6 +1,5 @@
-John A. Smith
+Data Visualization Projects:
+dkjdkj
+kdjfkdj
 
-Data Science Portfolio
-
-john_smith@yahoo.com
 
